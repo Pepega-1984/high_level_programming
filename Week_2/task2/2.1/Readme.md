@@ -14,6 +14,7 @@ Student(String name, LocalDateTime birthDate, String group, int studentId, doubl
 
 
 Методы
+
 getAge(): Возвращает возраст студента.
 toString(): Возвращает строковое представление объекта.
 isExcellentStudent: Если средний балл студента >= 4,8, возвращает true. Иначе - false;
