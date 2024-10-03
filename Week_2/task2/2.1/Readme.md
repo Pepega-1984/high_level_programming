@@ -9,6 +9,7 @@ double averageScore: Ср. балл.
 
 
 Конструктор
+
 Student(String name, LocalDateTime birthDate, String group, int studentId, double averageScore): Конструктор с парамерами. Инициализирует студента с переданными параметрами;
 
 
