@@ -1,5 +1,6 @@
 BankAccount
-Класс BankAccount - Банковский аккаунт со следующими атрибутами:
+Класс
+BankAccount - Банковский аккаунт со следующими атрибутами:
 
 String accountNumber: Номер счета
 double balance: Баланс
