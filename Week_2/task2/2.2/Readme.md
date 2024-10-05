@@ -1,5 +1,7 @@
 BankAccount
+
 Класс
+
 BankAccount - Банковский аккаунт со следующими атрибутами:
 
 String accountNumber: Номер счета
